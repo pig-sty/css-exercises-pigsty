@@ -3,5 +3,9 @@
 .odd-numbers {
     background-color: pink; 
     font-family: "Verdana","DejaVu Sans",sans-serif;
-    
+}
+
+#one-id {
+    color: blue;
+    font-size: 36px;
 }
